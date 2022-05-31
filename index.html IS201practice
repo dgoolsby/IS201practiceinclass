@@ -1,0 +1,22 @@
+!DOCTYPE html>
+
+<html> lang="en">
+    <head>
+        <title>My Personal Website - Dallas Goolsby</title>
+        <head>
+            <body>
+                <h1> Website - CV Dallas Goolsby</h1>
+                <h2> im making a webpage </h2>
+                <p> Navigation</p>
+
+                <p>Intro</p>
+                <p> Education</p>
+                <p>Experience</p>
+                <p>Hobbies</p>
+
+                <ul> <p>Intro</p>
+                    <p> Education</p>
+                    <p>Experience</p>
+                    <p>Hobbies</p> </ul>
+            </body>
+         </html>
